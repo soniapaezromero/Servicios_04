@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Paez_Sonia_Servicios04</string>
+    <string name="d_lares"/>
+    <string name="labeldolares">Dólares</string>
+    <string name="euros"/>
+    <string name="labeleuros">Euros</string>
+    <string name="d_lares_aeuros">Dólares a Euros</string>
+    <string name="euros_a_d_lares">Euros a Dolares</string>
+    <string name="convertir">Convertir</string>
+    <string name="identificador">Identificador</string>
+    <string name="direccion">Direccion</string>
+    <string name="estaciones_de_bicicletas_en_zaragoza">Estaciones de Bicicletas en Zaragoza</string>
+    <string name="todo">TODO</string>
+    <string name="informacion_de_la_estacion">Informacion de la Estacion</string>
+</resources>
